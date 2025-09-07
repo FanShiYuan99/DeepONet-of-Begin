@@ -1,1 +1,1 @@
-
+悬臂梁大变形DeepONet，DeepONet_材料模型_2D_样本量
